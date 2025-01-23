@@ -1,3 +1,7 @@
+"""
+The functionality module contains some functions to demonstrate testing.
+"""
+
 import numbers
 
 
